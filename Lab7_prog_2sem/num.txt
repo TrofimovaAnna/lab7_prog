@@ -1,0 +1,4 @@
+clear
+add "Тест1" 10.5 20 1500.0 50 VIP
+add_if_max "Билет1" 30.0 40 5000.0 10 USUAL
+show
